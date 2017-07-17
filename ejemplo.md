@@ -35,7 +35,7 @@ summary(cars)
  Max.   :25.0   Max.   :120.00  
 ```
 
-Slide With Plot
+Slide With Plot 
 ========================================================
 
 ![plot of chunk unnamed-chunk-3](ejemplo-figure/unnamed-chunk-3-1.png)

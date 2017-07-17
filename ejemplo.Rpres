@@ -21,7 +21,7 @@ Slide With Code
 summary(cars)
 ```
 
-Slide With Plot
+Slide With Plot 
 ========================================================
 
 ```{r, echo=FALSE}
